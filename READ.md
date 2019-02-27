@@ -93,7 +93,7 @@ Logger.warning("Loss")
   <img width="200" src="https://github.com/icon-bu-3/fishingcon/issues/1#issuecomment-467749638.jpg">
   </div>
 ### 2.6) 홈 버튼을 클릭하면 메인 페이지로 이동합니다.
-("https://github.com/icon-bu-3/fishingcon/issues/1#issuecomment-467748282.jpg")
+![]("https://github.com/icon-bu-3/fishingcon/issues/1#issuecomment-467748282.jpg")
 ### 2.7) 재검색 버튼을 클릭하면 물고기 선택 화면이 다시 표시됩니다.
 ### 2.8) FishingCON 끝.
 
