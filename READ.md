@@ -88,6 +88,7 @@ Logger.warning("Loss")
 <img width="200" src="https://github.com/icon-bu-3/fishingcon/issues/1#issuecomment-467748116">
 </div>
 ### 2.4) 로딩 화면이 표시되고 게임 결과 화면이 10 초 후에 표시됩니다.
+![image](https://user-images.githubusercontent.com/38340720/53471584-8615c080-3aa8-11e9-93e1-f5d1b75c02fd.png)
 <img width="200" src="https://github.com/icon-bu-3/fishingcon/issues/1#issuecomment-467751541">
 ### 2.5) 8 초간 결과 화면이 나오면 Home 버튼과 Rematch 버튼으로 화면을 출력합니다.
 <div>
