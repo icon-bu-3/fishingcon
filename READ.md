@@ -32,7 +32,7 @@ tbears balance cx0c364df5a2d9e536bce11d057585d0decbd2b791
 색칠한 부분을 본인의 스코어주소로 변경 
 ```
 var address = getParameterByAddress("address");
-#*var score_to = "cx0c364df5a2d9e536bce11d057585d0decbd2b791";*#
+\*var score_to = "cx0c364df5a2d9e536bce11d057585d0decbd2b791";*\
 
 let current = '';
 ```
