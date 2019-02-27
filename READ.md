@@ -5,14 +5,16 @@
 # 랜덤제너레이션을 활용한 물고기 게임
 
 ## 설치
-## tbears의 사용법
+## git 사용법
 sudo apt install git-all
 
 git clone https://github.com/icon-bu-3/fishingcon
 cd fisingcon
 
 ## ```Pycharm ```을 활용하여 모듈을 설치하시오 tbears
-
+```
+Pycharm setting-> project interperter -> '+' button click -> search tbears and install Package
+```
 ## SCORE를 먼저 localhost에 배포하고 테스트 해 봅니다.
 ```
 tbears start
@@ -42,7 +44,20 @@ let current = '';
 icon_service = IconService(HTTPProvider("http://127.0.0.1:9000/api/v3"))
 _score_address = "cx0c364df5a2d9e536bce11d057585d0decbd2b791"
 ```
+## 변경후에 게임을 하기위해선 스코어주소와 자신에 지갑이 ICX가 있어야하므로 100ICX를 로컬에서 보내준다.
+tbears transfer cx0c364df5a2d9e536bce11d057585d0decbd2b791 100e18
+tbears transfer hx8cfb20aae3e75e6dbfe016a73b38a6b31f3ed101 100e18
 
+## ```flask ```을 활용하여 모듈을 설치하시오 flask
+```
+Pycharm setting-> project interperter -> '+' button click -> search flask and install Package
+```
+## app.py 실행 
+```
+#server/app.py
+cd server
+python app.py 
+```
 ## 1. FishingCON 서비스
 FishingCON 서비스는 임의 생성을 통해 게임 0, 1, 2를 만들었습니다. 생성 된 난수 및 생성자의 수는 3 가지 색상의 물고기에 대해 0, 1 및 2의 고유 한 값입니다. 사용자와 사수를 비교하고 생성 된 난수를 비교하십시오.
 ``` game_value = int.from_bytes(sha3_256(
