@@ -8,10 +8,10 @@ The FishingCON service has created games 0, 1, 2 through random generation. The 
 
 ### 1). Requirements
  
-##3 1.1) Need an ICONex Wallet
+### 1.1) Need an ICONex Wallet
 -  It can be used without login.
 
-##3 1.2) Need an ICX
+### 1.2) Need an ICX
 -  Bet the ICX to the fish you selected after the game starts and you will receive double the amount of wins and lose 0.8% of the wagered amount when you lose.
 
 ## 2). How to play FishingCON
