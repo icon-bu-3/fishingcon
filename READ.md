@@ -78,7 +78,6 @@ Logger.warning("Loss")
 ### 2.1) 지갑을 동기화하려면 메인 페이지에서 지갑 연결 버튼을 클릭하십시오.
 ### 2.2) 게임 시작 버튼을 클릭하면 물고기 선택 화면이 나타납니다.
 ![image](https://user-images.githubusercontent.com/38340720/53471549-654d6b00-3aa8-11e9-96f7-db3351d00b44.png)
-
 <img width="200" src="![image](https://user-images.githubusercontent.com/38340720/53471549-654d6b00-3aa8-11e9-96f7-db3351d00b44.png)">
 ### 2.3) 물고기를 선택한 후, ICONex 지갑 지갑 암호를 입력하고 보내십시오.
 ![image](https://user-images.githubusercontent.com/38340720/53471549-654d6b00-3aa8-11e9-96f7-db3351d00b44.png)
