@@ -1,7 +1,57 @@
 # README
+
+
+
+# 랜덤제너레이션을 활용한 물고기 게임
+
+## 설치
+## tbears의 사용법
+sudo apt install git-all
+
+git clone https://github.com/icon-bu-3/fishingcon
+cd fisingcon
+
+## ```Pycharm ```을 활용하여 모듈을 설치하시오 tbears
+
+## SCORE를 먼저 localhost에 배포하고 테스트 해 봅니다.
+```
+tbears start
+tbears deploy ../fishingcon
+```
+## 배포를 성공하고 스코어주소를 확인합니다.
+```
+tbears txresult 010c364df5a2d9e536bce11d057585d0decbd2b791
+```
+## 스코어주소를 확인하고 잔액을 확인한다
+```
+tbears balance cx0c364df5a2d9e536bce11d057585d0decbd2b791
+```
+## localhost에 fishingcon 을 배포 하고 game.js 와 app.py 스코어 주소를 변경한다.
+색칠한 부분을 본인의 스코어주소로 변경 
+```
+var address = getParameterByAddress("address");
+var score_to = "cx0c364df5a2d9e536bce11d057585d0decbd2b791";
+
+let current = '';
+```
+색칠한 부분을 본인의 스코어주소로 변경
+```
+# from time import sleep
+
+#---------------------------------------Icon Service rink----------------------------------------
+icon_service = IconService(HTTPProvider("http://127.0.0.1:9000/api/v3"))
+_score_address = "cx0c364df5a2d9e536bce11d057585d0decbd2b791"
+```
+
 ## 1. FishingCON 서비스
 FishingCON 서비스는 임의 생성을 통해 게임 0, 1, 2를 만들었습니다. 생성 된 난수 및 생성자의 수는 3 가지 색상의 물고기에 대해 0, 1 및 2의 고유 한 값입니다. 사용자와 사수를 비교하고 생성 된 난수를 비교하십시오.
-
+``` game_value = int.from_bytes(sha3_256(
+self.msg.sender.to_bytes() + str(self.block.timestamp).encode()), "big") % 3 
+if (game_value == _choice): 
+Logger.warning("Win")
+else:
+Logger.warning("Loss")
+```
 ## 2. FishingCON의 요구 사항 또는 플레이 방법
 1). 요구 사항
 ### 1.1) ICONex 월렛 필요로그인없이 사용할 수 없습니다.
