@@ -69,17 +69,31 @@ else:
 Logger.warning("Loss")
 ```
 ## 2. FishingCON의 요구 사항 또는 플레이 방법
-## 1). 요구 사항
+1). 요구 사항
 ### 1.1) ICONex 월렛 필요로그인없이 사용할 수 없습니다.
+<img width="200" src="https://github.com/icon-bu-3/fishingcon/issues/1#issue-414971133">
 ### 1.2) ICX가 필요합니다.
 게임을 시작한 후 선택한 물고기에게 ICX를 베팅하십시오. 잃을 때 2 배의 승수를 받고 0.8 %의 베팅 금액을 잃게됩니다.
 ## 2). FishingCON 게임하는 법
 ### 2.1) 지갑을 동기화하려면 메인 페이지에서 지갑 연결 버튼을 클릭하십시오.
 ### 2.2) 게임 시작 버튼을 클릭하면 물고기 선택 화면이 나타납니다.
+<img width="200" src="hhttps://github.com/icon-bu-3/fishingcon/issues/1#issuecomment-467747158">
 ### 2.3) 물고기를 선택한 후, ICONex 지갑 지갑 암호를 입력하고 보내십시오.
+<div>
+<img width="200" src="https://github.com/icon-bu-3/fishingcon/issues/1#issuecomment-467747488">
+<img width="200" src="https://github.com/icon-bu-3/fishingcon/issues/1#issuecomment-467747868">
+<img width="200" src="https://github.com/icon-bu-3/fishingcon/issues/1#issuecomment-467747981">
+<img width="200" src="https://github.com/icon-bu-3/fishingcon/issues/1#issuecomment-467748116">
+</div>
 ### 2.4) 로딩 화면이 표시되고 게임 결과 화면이 10 초 후에 표시됩니다.
+<img width="200" src="https://github.com/icon-bu-3/fishingcon/issues/1#issuecomment-467751541">
 ### 2.5) 8 초간 결과 화면이 나오면 Home 버튼과 Rematch 버튼으로 화면을 출력합니다.
+<div>
+  <img width="200" src="https://github.com/icon-bu-3/fishingcon/issues/1#issuecomment-467748408.jpg">
+  <img width="200" src="https://github.com/icon-bu-3/fishingcon/issues/1#issuecomment-467749638.jpg">
+  </div>
 ### 2.6) 홈 버튼을 클릭하면 메인 페이지로 이동합니다.
+<img width="200" src="https://github.com/icon-bu-3/fishingcon/issues/1#issuecomment-467748282.jpg">
 ### 2.7) 재검색 버튼을 클릭하면 물고기 선택 화면이 다시 표시됩니다.
 ### 2.8) FishingCON 끝.
 
