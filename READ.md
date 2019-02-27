@@ -71,11 +71,12 @@ Logger.warning("Loss")
 ## 2. FishingCON의 요구 사항 또는 플레이 방법
 1). 요구 사항
 ### 1.1) ICONex 월렛 필요로그인없이 사용할 수 없습니다.
-![fishingcon](https://user-images.githubusercontent.com/38340720/53471549-654d6b00-3aa8-11e9-96f7-db3351d00b44.png)
 ### 1.2) ICX가 필요합니다.
 게임을 시작한 후 선택한 물고기에게 ICX를 베팅하십시오. 잃을 때 2 배의 승수를 받고 0.8 %의 베팅 금액을 잃게됩니다.
 ## 2). FishingCON 게임하는 법
 ### 2.1) 지갑을 동기화하려면 메인 페이지에서 지갑 연결 버튼을 클릭하십시오.
+![fishingcon](https://user-images.githubusercontent.com/38340720/53471549-654d6b00-3aa8-11e9-96f7-db3351d00b44.png)
+![image](https://user-images.githubusercontent.com/38340720/53471506-2d462800-3aa8-11e9-81cc-f754c25ff694.png)
 ### 2.2) 게임 시작 버튼을 클릭하면 물고기 선택 화면이 나타납니다.
 ![choice](https://user-images.githubusercontent.com/38340720/53471584-8615c080-3aa8-11e9-93e1-f5d1b75c02fd.png)
 ### 2.3) 물고기를 선택한 후, ICONex 지갑 지갑 암호를 입력하고 보내십시오.
