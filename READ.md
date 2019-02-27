@@ -83,7 +83,6 @@ Logger.warning("Loss")
 ![wallet1](https://user-images.githubusercontent.com/38340720/53471729-fa506400-3aa8-11e9-8796-11c2d3108c80.png)
 ![wallet2](https://user-images.githubusercontent.com/38340720/53471754-0d633400-3aa9-11e9-9742-bfbf89def82f.png)
 ![wallet3](https://user-images.githubusercontent.com/38340720/53471777-223fc780-3aa9-11e9-8f9f-3d9fe757eb1d.png)
-![image](https://user-images.githubusercontent.com/38340720/53471549-654d6b00-3aa8-11e9-96f7-db3351d00b44.png)
 ### 2.4) 로딩 화면이 표시되고 게임 결과 화면이 10 초 후에 표시됩니다.
 ![loading](https://user-images.githubusercontent.com/38340720/53472544-3ab0e180-3aab-11e9-8c5f-e4c7a40fe673.png)
 ### 2.5) 8 초간 결과 화면이 나오면 Home 버튼과 Rematch 버튼으로 화면을 출력합니다.
