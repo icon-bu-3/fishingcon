@@ -30,9 +30,9 @@ tbears balance cx0c364df5a2d9e536bce11d057585d0decbd2b791
 ```
 ### localhost에 fishingcon 을 배포 하고 game.js 와 app.py 스코어 주소를 변경합니다.
 색칠한 부분을 본인의 스코어주소로 변경 
-```python
+```
 var address = getParameterByAddress("address");
-var score_to = "cx0c364df5a2d9e536bce11d057585d0decbd2b791";
+#*var score_to = "cx0c364df5a2d9e536bce11d057585d0decbd2b791";*#
 
 let current = '';
 ```
